@@ -1,83 +1,146 @@
 👋 Hi, I'm Kim Jindol
 
-Building a programming language by building real software.
+Design. Build. Verify. Repeat.
 
 ---
 
-About Me
+🚀 About Me
 
-I'm an independent systems developer building a complete software stack from the language itself.
+I'm an independent systems developer building software from the ground up.
 
-My work focuses on proving ideas through implementation rather than prototypes or papers.
+My primary focus is not just creating applications, but designing the technology underneath them—programming languages, runtimes, databases, backend systems, and developer tools.
 
-Instead of stopping at a compiler, I use my language to build real software—including databases, runtimes, backend services, developer tools, and automation systems.
+Rather than treating these as research projects, I continuously validate them by building real software and measuring the results.
 
 ---
 
-Current Focus
+🔬 Current Focus
 
 AFJ
 
-An experimental systems programming language evolving through real-world applications.
+An experimental systems programming language designed to evolve through real-world software development.
+
+The language is continuously improved by implementing practical systems instead of isolated language features.
 
 AFJ-DB
 
-A deterministic event-sourced database written in AFJ to validate the language itself.
+A deterministic event-sourced database built in AFJ.
 
-Every new database feature becomes a new language validation test.
+The project validates language capabilities through real implementations of:
 
-Runtime & Infrastructure
+- Event storage
+- Integrity verification
+- Deterministic replay
+- Snapshots
+- Distributed synchronization
 
-Building practical runtime components, execution engines, distributed synchronization, and backend infrastructure on top of AFJ.
+Every database feature is also a language validation test.
+
+AI-assisted Engineering
+
+I use AI as an engineering accelerator—not as a replacement for verification.
+
+AI helps implement, review, and automate development, while every important result is validated through actual builds, tests, and reproducible execution.
 
 ---
 
-What You'll Find Here
+🧠 Areas of Interest
 
-- Programming Language Development
-- Compiler & Runtime
-- Database Engine
+- Programming Language Design
+- Compiler Development
+- Runtime Systems
+- Database Engines
 - Event Sourcing
-- Deterministic Replay
 - Distributed Systems
 - Backend Infrastructure
-- AI-assisted Engineering
+- Developer Tooling
+- Performance Engineering
+- AI-assisted Software Engineering
 
 ---
 
-Development Philosophy
+⚙️ Engineering Philosophy
 
-«The language should build the software.
-The software should improve the language.»
+«Build. Verify. Improve.»
 
-Every project is an engineering experiment.
+Every project follows the same engineering cycle:
 
-Every experiment must be:
+- Design
+- Implement
+- Test
+- Verify
+- Measure
+- Improve
 
-- Designed
-- Implemented
+I believe software should prove itself through implementation and validation—not assumptions.
+
+---
+
+✅ Validation First
+
+Implementation alone is never the goal.
+
+A feature is considered complete only when it has been:
+
+- Built
+- Tested
 - Verified
-- Measured
-- Improved
+- Reproduced
+
+Implementation without verification is only a hypothesis.
 
 ---
 
-Current Mission
+🎯 Current Mission
 
-Build a complete ecosystem where:
+Build a complete software ecosystem where every layer evolves together.
 
-AFJ
+AFJ Language
+        ↓
+Compiler
+        ↓
+Runtime
+        ↓
+AFJ-DB
+        ↓
+Backend Services
+        ↓
+Applications
 
-→ Runtime
+Each layer strengthens the next.
 
-→ Database
+Every implementation improves the language.
 
-→ Backend
-
-→ Applications
-
-all evolve together through continuous implementation and verification.
+Every language improvement enables more capable software.
 
 ---
 
-⭐ Building the language by building the system.
+📂 What You'll Find Here
+
+- Experimental programming languages
+- Compiler and runtime development
+- Event-sourced databases
+- Distributed backend systems
+- AI-assisted development workflows
+- Performance experiments
+- Infrastructure prototypes
+- Developer tools
+
+---
+
+🤝 Collaboration
+
+I'm always interested in discussions about:
+
+- Programming languages
+- Database architecture
+- Runtime design
+- Distributed systems
+- Backend engineering
+- AI-assisted software development
+
+If you're building ambitious systems or exploring new ideas, feel free to connect.
+
+---
+
+⭐ Building the language that builds the system.
