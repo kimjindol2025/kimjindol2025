@@ -1,67 +1,83 @@
-# 👋 Hi, I'm Kim Jindol
+👋 Hi, I'm Kim Jindol
 
-**Build. Experiment. Record.**
-
----
-
-## 🚀 About Me
-
-I'm a systems-focused developer who enjoys designing and building experimental architectures, backend engines, and infrastructure-level tools.
-My work centers around exploring **new execution models, performance optimization, and scalable system design** rather than just shipping apps.
+Building a programming language by building real software.
 
 ---
 
-## 🧠 Interests
+About Me
 
-* Distributed systems
-* Runtime & execution engines
-* Vector databases
-* API architecture
-* Automation frameworks
-* AI-oriented platforms
+I'm an independent systems developer building a complete software stack from the language itself.
 
----
+My work focuses on proving ideas through implementation rather than prototypes or papers.
 
-## 🛠 Tech Focus
-
-```
-Backend Systems
-Architecture Design
-Performance Engineering
-Experimental Infrastructure
-```
+Instead of stopping at a compiler, I use my language to build real software—including databases, runtimes, backend services, developer tools, and automation systems.
 
 ---
 
-## 📦 Featured Projects
+Current Focus
 
-* **Zero-Copy-DB** → high-performance vector storage concept
-* **CodeMind** → intelligent code management platform
-* **PolyglotAPI** → multi-language execution architecture
+AFJ
 
----
+An experimental systems programming language evolving through real-world applications.
 
-## 📈 Development Philosophy
+AFJ-DB
 
-> Build fast. Break safely. Learn constantly.
+A deterministic event-sourced database written in AFJ to validate the language itself.
 
-I treat every project as a research lab.
-Even failures are valuable if they produce insight.
+Every new database feature becomes a new language validation test.
 
----
+Runtime & Infrastructure
 
-## 🎯 Current Goals
-
-* Designing scalable orchestration systems
-* Building next-gen API runtime architecture
-* Experimenting with new execution models
+Building practical runtime components, execution engines, distributed synchronization, and backend infrastructure on top of AFJ.
 
 ---
 
-## 📫 Contact
+What You'll Find Here
 
-If you're interested in collaboration, architecture discussions, or experimental system design — feel free to connect.
+- Programming Language Development
+- Compiler & Runtime
+- Database Engine
+- Event Sourcing
+- Deterministic Replay
+- Distributed Systems
+- Backend Infrastructure
+- AI-assisted Engineering
 
 ---
 
-⭐ *Always building something.*
+Development Philosophy
+
+«The language should build the software.
+The software should improve the language.»
+
+Every project is an engineering experiment.
+
+Every experiment must be:
+
+- Designed
+- Implemented
+- Verified
+- Measured
+- Improved
+
+---
+
+Current Mission
+
+Build a complete ecosystem where:
+
+AFJ
+
+→ Runtime
+
+→ Database
+
+→ Backend
+
+→ Applications
+
+all evolve together through continuous implementation and verification.
+
+---
+
+⭐ Building the language by building the system.
